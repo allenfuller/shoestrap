@@ -3,3 +3,5 @@ Hello World!
 More edits.
 
 This is a quick edit on Github.com. How will it appear on the desktop?
+
+One more new edit to test moving to local.
