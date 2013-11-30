@@ -2,6 +2,8 @@
 
 We Forked the Roots theme and added lots of options, hooks and actions in there, making it a theme that anyone can use and customize their site to a great extent, making it their own. Our goal was to make it easier for developers to create and prototype sites without any coding and with just a few clicks.
 
+This is Allen Fuller's fork of Shoestrap, to work specifically on our sites.
+
 ## Options Panel
 
 We originally intended to include [SMOF](https://github.com/syamilmj/Options-Framework) as an options panel, but due to various issues and bugs that SMOF has, we instead chose to develop our own Options Framework. So [@dovy](https://twitter.com/simplerain), a shoestrap contributor, built and integrated [ReduxFramework](http://reduxframework.com) into Shoestrap. 
